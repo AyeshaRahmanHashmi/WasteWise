@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">WasteWise</string>
+    <string name="app_subtitle">Smart Waste Classification</string>
+
+    <!-- Buttons -->
+    <string name="btn_scan_item">Scan Item</string>
+
+    <!-- Result Panel -->
+    <string name="result_label">RESULT</string>
+    <string name="result_placeholder">Awaiting image selection. Tap \'Scan Item\' to begin.</string>
+
+    <!-- Accessibility Content Descriptions -->
+    <string name="app_logo_desc">WasteWise Application Logo</string>
+    <string name="image_preview_desc">Selected waste image preview</string>
+    <string name="placeholder_camera_desc">Camera icon indicating no image is selected</string>
 </resources>
