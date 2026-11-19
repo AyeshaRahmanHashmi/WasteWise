@@ -20,8 +20,8 @@
 
         <ImageView
             android:id="@+id/appLogo"
-            android:layout_width="48dp"
-            android:layout_height="48dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:src="@drawable/ic_launcher_foreground"
             android:contentDescription="@string/app_logo_desc" />
 
